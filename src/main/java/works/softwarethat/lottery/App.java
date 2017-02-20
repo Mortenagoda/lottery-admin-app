@@ -19,7 +19,7 @@ import org.eclipse.jetty.servlet.ServletHolder;
 /**
  * Minimal Servlet bootstrap for Vaadin application.
  *
- * @author Sami Ekblad
+ * @author mortena@gmail.com
  */
 public class App {
 
